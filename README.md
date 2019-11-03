@@ -6,7 +6,7 @@ Requirements:
 2. ClienId & ClientSecret from Google API, just goto Google and search for Google+ API , follow the link: https://console.developers.google.com/  
 3. Follow simple steps and create credentials for Login page
 
-Follow stesp to use this code.
+Follow steps to use this code.
 1. Clone or Download the Folder
 2. There will be few .php files an images folder and a Zip file named: GoogleAPI.zip, Extract the file in same folder and name the Folder as GoogleAPI if not set.
 3. Now just open the url of your project and call login.php example: http://localhost/LoginWithGoogle/login.php
